@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color:#FFE4C4;
+}
+
+.header {
+  background-color: grey;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.list-div {
+  margin: auto;
+  margin-top: 30px;
+  width: 600px;
+  heigth: 900px;
+}
+.list {
+  text-align: left;
+  height: 40px;
+  line-height: 30px;
+}
+#quote{
+  font-style:italic;
+}
+.footer{
+  margin-top:50%;
+}
